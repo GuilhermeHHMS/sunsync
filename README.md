@@ -1,16 +1,13 @@
-# sunsync
+**autor** : Guilherme Henrique Marcondes de Souza.
 
-A new Flutter project.
+### Descrição:
 
-## Getting Started
+Este é um sensor de luz solar para fins de teste em Flutter.
 
-This project is a starting point for a Flutter application.
+### Como usar:
 
-A few resources to get you started if this is your first Flutter project:
+* Saia ao ar livre com o app em execução.
+* Ao atingir um mínimo de 40.000 Lux, um cronômetro se iniciará.
+<br>
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+**Observações importantes: O software foi desenvolvido para fins de testes. NÃO SE EXPOR AO SOL POR LONGOS PERÍODOS SEM PROTETOR SOLAR.**
